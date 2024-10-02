@@ -10,11 +10,11 @@
 
 <body>
 ログイン
-	<form action="LoginAction">
-		<textfield name="name"/>
-		<password name="password"/>
-		<submit value="ログイン"/>
-	</form>
+	<s:form action="LoginAction">
+		<s:textfield name="name"/>
+		<s:password name="password"/>
+		<s:submit value="ログイン"/>
+	</s:form>
 	
 </body>
 </html>
