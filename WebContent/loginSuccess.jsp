@@ -5,16 +5,9 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>ログイン画面</title>
+	<title>ログイン成功画面</title>
 </head>
-
 <body>
-ログイン
-	<form action="LoginAction">
-		<textfield name="name"/>
-		<password name="password"/>
-		<submit value="ログイン"/>
-	</form>
-	
+	<h1>ログインに成功しました。</h1>
 </body>
 </html>
